@@ -16,3 +16,4 @@ Scanner sc = new Scanner(System.in);
       System.out.println("Decimal of "+n+" is "+bin);
       }}
 //first line added in feature branch
+//changes done using git ui
